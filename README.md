@@ -17,7 +17,7 @@ User Authentication and Authorization: Implement secure user authentication and 
 Extensible API: Customize and extend the functionality of the email system to meet the specific requirements of your application.
 
 
-#Software Requirements Specification (SRS)
+# Software Requirements Specification (SRS)
 This project adheres to a detailed Software Requirements Specification (SRS) to ensure that all aspects of the system are well-defined, meet user expectations, and comply with industry standards. The SRS document, available in the docs directory, provides comprehensive insights into:
 
 Functional Requirements: Clearly defined functionalities and features of the email system.
@@ -29,12 +29,12 @@ User Interface Design: Guidelines for the user interface, ensuring a user-friend
 Testing and Quality Assurance: Procedures and criteria for testing the system to guarantee its reliability and correctness
 
 
-#Getting Started
+# Getting Started
 To get started with the Email Client-Server System, follow the steps outlined in the Installation Guide. This guide will walk you through the setup process and help you configure the system to suit your needs.
 
 For a quick overview of the system's capabilities, consult the Usage Guide, which provides examples and code snippets to demonstrate common tasks.
 
-#Contribution Guidelines
+# Contribution Guidelines
 
 We welcome contributions from the community to improve and expand the functionality of the Email Client-Server System. Before contributing, please review our Contribution Guidelines to ensure a smooth collaboration process.
 
