@@ -29,6 +29,13 @@ User Interface Design: Guidelines for the user interface, ensuring a user-friend
 Testing and Quality Assurance: Procedures and criteria for testing the system to guarantee its reliability and correctness
 
 
+
+# Visual Documentation
+To further aid understanding and implementation, the project includes visual documentation with images. These images provide graphical representations of system architecture, workflow diagrams, and user interface mock-ups. You can explore the visual documentation in the images directory.
+
+
+
+
 # Getting Started
 To get started with the Email Client-Server System, follow the steps outlined in the Installation Guide. This guide will walk you through the setup process and help you configure the system to suit your needs.
 
