@@ -35,7 +35,7 @@ To further aid understanding and implementation, the project includes visual doc
 
 !Images as Follow :-
 
-[project Images em1](https://github.com/DukeVG/Email-Client-Server-System/assets/100790389/aa55aeed-f585-47d6-bd43-7d1db94854d2)
+[Image](https://github.com/DukeVG/Email-Client-Server-System/assets/100790389/aa55aeed-f585-47d6-bd43-7d1db94854d2)
 
 
 
